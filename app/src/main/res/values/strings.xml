@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">keyboardist</string>
     <string name="press_any_key">Press any key .....</string>
+    <string name="key_code">Key code</string>
+    <string name="key_details">Key details</string>
 </resources>
